@@ -4,5 +4,5 @@ Read and summarise one research paper a day
 ## Research papers
 Paper 1 | Convolutional Neural Networks for Sentence Classification by Yoon Kim
 
-### 4th September 2018
+## 4th September 2018
 Convolutional Neural Networks for Sentence Classification by Yoon Kim
