@@ -2,7 +2,7 @@
 
 **Objective:** Read and summarise one research paper a day
 
-Paper 1 | **Convolutional Neural Networks for Sentence Classification** by Yoon Kim
+Paper 1 | ***Convolutional Neural Networks for Sentence Classification*** by Yoon Kim
 
 Paper 2 | **Twitter Sentiment Analysis using combined LSTM-CNN Models** by Pedro M. Sosa
 
