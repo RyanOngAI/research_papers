@@ -8,6 +8,11 @@ Paper 2 | **Twitter Sentiment Analysis using combined LSTM-CNN Models** by Pedro
 
 Paper 3 | **Sentiment Analysis Using Convolutional Neural Network** by Xi Ouyang, Pan Zhou, Cheng Hua Li, Lijun Liu
 
+Paper 4 | ImageNet Classification with Deep Convolutional Neural Networks by Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton
+
+## 7th September 2018
+**ImageNet Classification with Deep Convolutional Neural Networks** by Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton – published in 2012
+
 ## 6th September 2018
 **Sentiment Analysis Using Convolutional Neural Network** by Xi Ouyang, Pan Zhou, Cheng Hua Li, Lijun Liu – published in 2015
 
