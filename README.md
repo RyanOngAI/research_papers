@@ -12,8 +12,12 @@ Paper 4 | ***ImageNet Classification with Deep Convolutional Neural Networks*** 
 
 Paper 5 | ***Sentiment Analysis on Movie Reviews using Recursive and Recurrent Neural Network Architectures*** by Aditya Timmaraju, and Vikesh Khanna
 
+Paper 6 | ***Sentiment Analysis of Twitter Data for Predicting Stock Market Movements*** by Venkata Sasank Pagolu et. al.
+
 ## 8th September 2018
 ***Sentiment Analysis on Movie Reviews using Recursive and Recurrent Neural Network Architectures*** by Aditya Timmaraju, and Vikesh Khanna – published in 2015
+
+***Sentiment Analysis of Twitter Data for Predicting Stock Market Movements*** by Venkata Sasank Pagolu et. al. – published in 28th October 2016
 
 ## 7th September 2018
 ***ImageNet Classification with Deep Convolutional Neural Networks*** by Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton – published in 2012
