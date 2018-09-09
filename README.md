@@ -1,6 +1,6 @@
 # Research papers
 
-**Objective:** Read and summarise one research paper a day
+**Objective:** Summarise and implement research papers
 
 Paper 1 | ***Convolutional Neural Networks for Sentence Classification*** by Yoon Kim
 
