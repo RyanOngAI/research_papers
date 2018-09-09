@@ -14,6 +14,11 @@ Paper 5 | ***Sentiment Analysis on Movie Reviews using Recursive and Recurrent N
 
 Paper 6 | ***Sentiment Analysis of Twitter Data for Predicting Stock Market Movements*** by Venkata Sasank Pagolu et. al.
 
+Paper 7 | ***Sequence to Sequence Learning with Neural Networks*** by Ilya et. al
+
+## 9th September 2018
+***Sequence to Sequence Learning with Neural Networks*** by Ilya et. al – published in September 2014
+
 ## 8th September 2018
 ***Sentiment Analysis on Movie Reviews using Recursive and Recurrent Neural Network Architectures*** by Aditya Timmaraju, and Vikesh Khanna – published in 2015
 
