@@ -16,6 +16,11 @@ Paper 6 | ***Sentiment Analysis of Twitter Data for Predicting Stock Market Move
 
 Paper 7 | ***Sequence to Sequence Learning with Neural Networks*** by Ilya et. al
 
+Paper 8 | ***Character-level Convolutional Networks for Text Classification*** by Xiang Zhang et. al
+
+## 10th September 2018
+***Character-level Convolutional Networks for Text Classification*** by Xiang Zhang et. al – published by 4th April 2016
+
 ## 9th September 2018
 ***Sequence to Sequence Learning with Neural Networks*** by Ilya et. al – published in September 2014
 
