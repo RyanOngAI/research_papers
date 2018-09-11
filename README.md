@@ -18,6 +18,11 @@ Paper 7 | ***Sequence to Sequence Learning with Neural Networks*** by Ilya et. a
 
 Paper 8 | ***Character-level Convolutional Networks for Text Classification*** by Xiang Zhang et. al
 
+Paper 9 | ***Character-Aware Neural Language Models*** by Yoon Kim et. al
+
+## 11th September 2018
+***Character-Aware Neural Language Models*** by Yoon Kim et. al – published on 1st December 2015
+
 ## 10th September 2018
 ***Character-level Convolutional Networks for Text Classification*** by Xiang Zhang et. al – published by 4th April 2016
 
