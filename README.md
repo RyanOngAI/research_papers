@@ -20,6 +20,11 @@ Paper 8 | ***Character-level Convolutional Networks for Text Classification*** b
 
 Paper 9 | ***Character-Aware Neural Language Models*** by Yoon Kim et. al
 
+Paper 10 | ***BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs*** by Mathieu Cliché
+
+## 12th September 2018
+***BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs*** by Mathieu Cliché – published in 2017
+
 ## 11th September 2018
 ***Character-Aware Neural Language Models*** by Yoon Kim et. al – published on 1st December 2015
 
