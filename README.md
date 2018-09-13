@@ -22,6 +22,11 @@ Paper 9 | ***Character-Aware Neural Language Models*** by Yoon Kim et. al
 
 Paper 10 | ***BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs*** by Mathieu Cliché
 
+Paper 11 | ***Finki at SemEval-2016 Task 4: Deep Learning Architecture for Twitter Sentiment Analysis*** by Dario Stojanovski et. al
+
+## 13th September 2018
+***Finki at SemEval-2016 Task 4: Deep Learning Architecture for Twitter Sentiment Analysis*** by Dario Stojanovski et. al – published in 2016
+
 ## 12th September 2018
 ***BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CNNs and LSTMs*** by Mathieu Cliché – published in 2017
 
