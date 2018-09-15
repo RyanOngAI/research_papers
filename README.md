@@ -24,6 +24,11 @@ Paper 10 | ***BB_twtr at SemEval-2017 Task 4: Twitter Sentiment Analysis with CN
 
 Paper 11 | ***Finki at SemEval-2016 Task 4: Deep Learning Architecture for Twitter Sentiment Analysis*** by Dario Stojanovski et. al
 
+Paper 12 | ***Recurrent Convolutional Neural Networks for Text Classification*** by Siwei Lai et. al
+
+## 15th September 2018
+***Recurrent Convolutional Neural Networks for Text Classification*** by Siwei Lai et. al – published in 2015
+
 ## 13th September 2018
 ***Finki at SemEval-2016 Task 4: Deep Learning Architecture for Twitter Sentiment Analysis*** by Dario Stojanovski et. al – published in 2016
 
