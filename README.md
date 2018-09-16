@@ -3,8 +3,8 @@
 **Objective:** Summarise and implement research papers
 
 Paper No.     | Title and Authors
-------------- | -------------
- 1             | ***Convolutional Neural Networks for Sentence Classification*** by Yoon Kim
+-------------:| -------------
+1             | ***Convolutional Neural Networks for Sentence Classification*** by Yoon Kim
 2             | ***Twitter Sentiment Analysis using combined LSTM-CNN Models*** by Pedro M. Sosa
 3             | ***Sentiment Analysis Using Convolutional Neural Network*** by Xi Ouyang, Pan Zhou, Cheng Hua Li, Lijun Liu
 4             | ***ImageNet Classification with Deep Convolutional Neural Networks*** by Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton
