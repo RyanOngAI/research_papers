@@ -26,6 +26,11 @@ Paper 11 | ***Finki at SemEval-2016 Task 4: Deep Learning Architecture for Twitt
 
 Paper 12 | ***Recurrent Convolutional Neural Networks for Text Classification*** by Siwei Lai et. al
 
+Paper 13 | ***Approaches for Sentiment Analysis on Twitter: A State-of-Art study*** by Harsh Thakkar et. al
+
+## 16th September 2018
+***Approaches for Sentiment Analysis on Twitter: A State-of-Art study*** by Harsh Thakkar et. al – published in 2015
+
 ## 15th September 2018
 ***Recurrent Convolutional Neural Networks for Text Classification*** by Siwei Lai et. al – published in 2015
 
