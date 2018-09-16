@@ -4,7 +4,7 @@
 
 Date                      |Paper No.     | Titles and Authors
 ------------------------- |------------- | -------------
-4th September 2018        |1             | ***Convolutional Neural Networks for Sentence Classification*** by Yoon Kim
+04/09/2018                |1             | ***Convolutional Neural Networks for Sentence Classification*** by Yoon Kim
 5th September 2018        |2             | ***Twitter Sentiment Analysis using combined LSTM-CNN Models*** by Pedro M. Sosa
 6th September 2018        |3             | ***Sentiment Analysis Using Convolutional Neural Network*** by Xi Ouyang, Pan Zhou, Cheng Hua Li, Lijun Liu
 7th September 2018        |4             | ***ImageNet Classification with Deep Convolutional Neural Networks*** by Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton
