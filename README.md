@@ -8,7 +8,7 @@ Date                      |Paper No.     | Titles and Authors
 05/09/2018                |2             | ***Twitter Sentiment Analysis using combined LSTM-CNN Models*** by Pedro M. Sosa
 06/09/2018                |3             | ***Sentiment Analysis Using Convolutional Neural Network*** by Xi Ouyang, Pan Zhou, Cheng Hua Li, Lijun Liu
 07/09/2018                |4             | ***ImageNet Classification with Deep Convolutional Neural Networks*** by Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton
-08/09/2018                |5             | ***Sentiment Analysis on Movie Reviews using Recursive and Recurrent Neural Network |Architectures*** by Aditya Timmaraju, and Vikesh Khanna
+08/09/2018                |5             | ***Sentiment Analysis on Movie Reviews using Recursive and Recurrent Neural Network Architectures*** by Aditya Timmaraju, and Vikesh Khanna
 08/09/2018                |6             | ***Sentiment Analysis of Twitter Data for Predicting Stock Market Movements*** by Venkata Sasank Pagolu et. al.
 09/09/2018                |7             | ***Sequence to Sequence Learning with Neural Networks*** by Ilya et. al
 10/09/2018                |8             | ***Character-level Convolutional Networks for Text Classification*** by Xiang Zhang et. al
