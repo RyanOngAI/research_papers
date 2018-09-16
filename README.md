@@ -28,8 +28,12 @@ Paper 12 | ***Recurrent Convolutional Neural Networks for Text Classification***
 
 Paper 13 | ***Approaches for Sentiment Analysis on Twitter: A State-of-Art study*** by Harsh Thakkar et. al
 
+Paper 14 | ***Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling*** by Peng Zhou et. al
+
 ## 16th September 2018
 ***Approaches for Sentiment Analysis on Twitter: A State-of-Art study*** by Harsh Thakkar et. al – published in 2015
+
+***Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling*** by Peng Zhou et. al – published in 2016
 
 ## 15th September 2018
 ***Recurrent Convolutional Neural Networks for Text Classification*** by Siwei Lai et. al – published in 2015
