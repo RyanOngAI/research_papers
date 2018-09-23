@@ -18,3 +18,4 @@ Date                      |Paper No.     | Titles and Authors
 15/09/2018                |12            | ***Recurrent Convolutional Neural Networks for Text Classification*** by Siwei Lai et. al
 16/09/2018                |13            | ***Approaches for Sentiment Analysis on Twitter: A State-of-Art study*** by Harsh Thakkar et. al
 16/09/2018                |14            | ***Text Classification Improved by Integrating Bidirectional LSTM with Two-dimensional Max Pooling*** by Peng Zhou et. al
+23/09/2018                |15            | ***Universal Language Model Fine-tuning for Text Classification*** by Jeremy Howard and Sebastian Ruder
